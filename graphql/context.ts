@@ -1,3 +1,4 @@
+// graphql/context.ts
 import { getSession } from "@auth0/nextjs-auth0";
 import type { NextApiRequest, NextApiResponse } from "next";
 
